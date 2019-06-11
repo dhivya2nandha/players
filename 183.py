@@ -8,3 +8,4 @@ for i in l:
     if i==0:
         a.append(i)
 print(*a)
+""" *a""""
